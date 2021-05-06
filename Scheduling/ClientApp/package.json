@@ -6,7 +6,7 @@
     "bootstrap": "^4.3.1",
     "connected-react-router": "6.5.2",
     "crypto-js": "^4.0.0",
-    "easytimer": "^1.1.1",
+    "easytimer.js": "^1.1.1",
     "history": "4.10.1",
     "jquery": "^3.4.1",
     "js-cookie": "^2.2.1",
